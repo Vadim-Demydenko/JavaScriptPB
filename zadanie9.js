@@ -12,4 +12,4 @@ for (let i = 5; i >  0; i--){
             for(let i = 0; i < arr.length; i++){
                 console.log(arr[i]);
             }
-            console.log('rere');
+            
