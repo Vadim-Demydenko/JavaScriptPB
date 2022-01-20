@@ -6,4 +6,5 @@ function f(a, b, c){
     return;
   } 
 }
-console.log(f(-12,'sdds',2));
+console.log(f(12,2,2));
+//console.log(f(12,'sdds',2));
